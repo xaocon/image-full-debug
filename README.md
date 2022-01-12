@@ -1,6 +1,6 @@
-# image-network-debug
+# image-full-debug
 
-Networking dubug image
+Dubug image with a bunch of stuff
 
 Just my collection
 
